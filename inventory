@@ -1,0 +1,14 @@
+[repo]
+repo.rhce-ex294.com ansible_host=10.0.0.10 ansible_user=vagrant ansible_ssh_pass=vagrant ansible_python_interpreter=/usr/bin/python3
+[control]
+control.rhce-ex294.com ansible_host=10.0.0.100 ansible_user=vagrant ansible_ssh_pass=vagrant ansible_python_interpreter=/usr/bin/python3
+[node1]
+node1.rhce-ex294.com ansible_host=10.0.0.101 ansible_user=vagrant ansible_ssh_pass=vagrant ansible_python_interpreter=/usr/bin/python3
+[node2]
+node2.rhce-ex294.com ansible_host=10.0.0.102 ansible_user=vagrant ansible_ssh_pass=vagrant ansible_python_interpreter=/usr/bin/python3
+[node3]
+node3.rhce-ex294.com ansible_host=10.0.0.103 ansible_user=vagrant ansible_ssh_pass=vagrant ansible_python_interpreter=/usr/bin/python3
+[node4]
+node4.rhce-ex294.com ansible_host=10.0.0.104 ansible_user=vagrant ansible_ssh_pass=vagrant ansible_python_interpreter=/usr/bin/python3
+[node4]
+node4.rhce-ex294.com ansible_host=10.0.0.104 ansible_user=vagrant ansible_ssh_pass=vagrant ansible_python_interpreter=/usr/bin/python3
