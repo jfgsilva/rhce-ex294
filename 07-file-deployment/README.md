@@ -147,9 +147,9 @@ Also, using the "|" char after block appends the newline char at de end of the l
     blockinfile:
       path: /home/{{ user }}/hosts
       block: |
-        192.168.0.23 host1.rhce-ex194.com
-        192.168.0.24 host2.rhce-ex194.com
-        192.168.0.25 host3.rhce.ex194.com
+        192.168.0.23 host1.rhce-ex294.com
+        192.168.0.24 host2.rhce-ex294.com
+        192.168.0.25 host3.rhce.ex294.com
       state: present
 ```
 ### fetch
